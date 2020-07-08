@@ -1,2 +1,2 @@
 # awito-int
- Интенсив Glo Academy
+ Интенсив Glo Academy по написанию сервиса объявлений.
