@@ -1,2 +1,2 @@
-# awito-int
- Интенсив Glo Academy по написанию сервиса объявлений.
+Cервис объявлений "Awito" на JavaScript. Доступен по адресу https://int4re.github.io/awito-int/.
+
